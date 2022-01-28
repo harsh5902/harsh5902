@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh5902&label=Profile%20views&color=0e75b6&style=flat" alt="harsh5902" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://harsh5902.github.io/MyWebsite/](https://harsh5902.github.io/MyWebsite/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh5902" alt="harsh5902" /></a> </p>
+
+- 🌱 I’m currently learning **React.js**
+
+- 💬 Ask me about **python, data science & web development**
 
 - 📫 How to reach me **harshpande5902@gmail.com**
 
@@ -25,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh5902&show_icons=true&locale=en" alt="harsh5902" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh5902&" alt="harsh5902" /></p>
-
