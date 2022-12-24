@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh5902&label=Profile%20views&color=0e75b6&style=flat" alt="harsh5902" /> </p>
 
-- 🌱 I’m currently learning **React.js**
-
 - 💬 Ask me about **python, data science & web development**
 
 - 📫 How to reach me **harshpande5902@gmail.com**
